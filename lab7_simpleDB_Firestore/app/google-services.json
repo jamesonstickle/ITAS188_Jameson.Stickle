@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "649033051875",
+    "firebase_url": "https://itas274-lab7.firebaseio.com",
+    "project_id": "itas274-lab7",
+    "storage_bucket": "itas274-lab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649033051875:android:1ae7cae3795e86f3ef1fd6",
+        "android_client_info": {
+          "package_name": "edu.itas.croftd.simpledbexample2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649033051875-af0rh59l85oh6pab43n6skr1unti87t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRpbquAuCf25-xwl_KYFs5z22mrHBT0Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649033051875-af0rh59l85oh6pab43n6skr1unti87t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
