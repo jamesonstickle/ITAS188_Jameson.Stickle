@@ -4086,7 +4086,70 @@
         "id": 152,
         "num": "152",
         "name": "Jam",
-        "img": "https://pbs.twimg.com/profile_images/3052476436/cd91b441502ae051e880465fbac39045_400x400.jpeg",
+        "img": "https://imgur.com/dYFGYDG",
+        "type": [
+          "Normal"
+        ],
+        "height": "1.88 m",
+        "weight": "122.0 kg",
+        "candy": "None",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0,
+        "avg_spawns": 0,
+        "spawn_time": "N/A",
+        "multipliers": null,
+        "weaknesses": [
+          "Bug",
+          "Ghost",
+          "Dark"
+        ]
+      }, {
+        "id": 153,
+        "num": "153",
+        "name": "Dave",
+        "img": "https://tradesappliedtech.viu.ca/sites/default/files/styles/max_size_cropped/public/migrated_files/sites_to_migrate/itas/images/instructor-david-croft.jpg?itok=GZcg17ML",
+        "type": [
+          "Psychic"
+        ],
+        "height": "0.41 m",
+        "weight": "4.0 kg",
+        "candy": "None",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0,
+        "avg_spawns": 0,
+        "spawn_time": "N/A",
+        "multipliers": null,
+        "weaknesses": [
+          "Bug",
+          "Ghost",
+          "Dark"
+        ]
+      }, {
+        "id": 154,
+        "num": "154",
+        "name": "Milad",
+        "img": "https://imgur.com/1SV8Qus",
+        "type": [
+          "Normal"
+        ],
+        "height": "1.88 m",
+        "weight": "122.0 kg",
+        "candy": "None",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0,
+        "avg_spawns": 0,
+        "spawn_time": "N/A",
+        "multipliers": null,
+        "weaknesses": [
+          "Bug",
+          "Ghost",
+          "Dark"
+        ]
+      }, {
+        "id": 155,
+        "num": "155",
+        "name": "Nile",
+        "img": "https://imgur.com/OzaRJGG",
         "type": [
           "Normal"
         ],
