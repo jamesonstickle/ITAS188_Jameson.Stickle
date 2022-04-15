@@ -28,7 +28,6 @@ import itas.jameson.pokedex.Adapter.PokemonTypeAdapter;
 import itas.jameson.pokedex.Common.Common;
 import itas.jameson.pokedex.Model.Pokemon;
 
-
 public class PokemonDetail extends Fragment implements TextToSpeech.OnInitListener {
 
     ImageButton speakBtn;
@@ -151,6 +150,11 @@ public class PokemonDetail extends Fragment implements TextToSpeech.OnInitListen
         super.onDestroy();
     }
 
+
+    /**
+     * Receives string value of speakText from fragment_pokemon_detail
+     * and speaks it out loud
+     */
     private void texttoSpeak() {
         String text = speakText.getText().toString();
         if ("".equals(text)) {
